@@ -35,18 +35,3 @@ Multiple Validation
 http://web.archive.org/web/20120508030459/http://blog.orange11.nl/2009/08/04/bean-validation-integrating-jsr-303-with-spring
 
 ----****************---------------***************------------****************------------************-********
-
-
-{
-	"locationId":"aa",
-	"countryCode":"sns",
-	"postCode":"ss"
-}
-
-
-{
- "locationId":"123",
- "city": "Delhi",
- "countryCode":"2",
- "postCode":"000000"
-}

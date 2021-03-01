@@ -20,7 +20,7 @@ public class Employee {
     @NumericValue(message = "employeeMobile should be numeric")
     private String employeeMobile;
 
-    @NumericValue(message = "employeeLocation should be numeric")
+    @NumericValue(message = "employeeCode should be numeric")
     private String employeeCode;
 
 
